@@ -1,0 +1,201 @@
+body {
+    font-family: 'Sarabun', sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    text-align: center;
+    color: #0056b3;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 15px;
+}
+
+.question-block {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.question-text {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+.choices label {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border: 1px solid #e0e0e0;
+}
+
+.choices label:hover {
+    background-color: #e9ecef;
+}
+
+.choices input[type="radio"] {
+    margin-right: 10px;
+}
+
+/* ส่วนของเฉลย */
+.review .choices label.user-answer {
+    background-color: #ffeeba; /* สีเหลืองสำหรับคำตอบที่ผู้ใช้เลือก */
+    border-color: #ffc107;
+}
+
+.review .choices label.correct-answer {
+    background-color: #d4edda; /* สีเขียวสำหรับเฉลย */
+    border-color: #c3e6cb;
+    font-weight: bold;
+}
+.review .choices label.user-answer.correct-answer {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+.review .choices label.incorrect-user-answer {
+    background-color: #f8d7da; /* สีแดงสำหรับคำตอบที่ผู้ใช้เลือกผิด */
+    border-color: #f5c6cb;
+}
+
+
+.button-container {
+    text-align: center;
+    margin-top: 30px;
+    display: flex; /* จัดปุ่มให้อยู่ในแถวเดียวกัน */
+    justify-content: center; /* จัดให้อยู่กลาง */
+    gap: 15px; /* ระยะห่างระหว่างปุ่ม */
+}
+
+/* สไตล์ปุ่มหลัก */
+#submitBtn {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#submitBtn:hover {
+    background-color: #0056b3;
+}
+
+/* สไตล์ปุ่มรอง (ปุ่มดูเฉลย) */
+#reviewBtn.secondary {
+    background-color: #6c757d;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#reviewBtn.secondary:hover {
+    background-color: #5a6268;
+}
+
+
+#result-container {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #e9f7fd;
+    border: 1px solid #bce8f1;
+    border-radius: 8px;
+}
+
+#score-text {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #31708f;
+}
+
+.hidden {
+    display: none;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin: 40px 0;
+}
+
+#review-container h2 {
+    text-align: center;
+    color: #495057;
+}
+
+.review-result {
+    font-weight: bold;
+    margin-top: 15px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.review-result.correct {
+    color: #155724;
+    background-color: #d4edda;
+}
+
+.review-result.incorrect {
+    color: #721c24;
+    background-color: #f8d7da;
+}
+
+/* ... (โค้ด CSS เดิมทั้งหมด) ... */
+
+/* สไตล์สำหรับปุ่ม "ดูเฉลย" ของแต่ละข้อ */
+.question-footer {
+    text-align: right;
+    margin-top: 15px;
+}
+
+.show-answer-btn {
+    background-color: transparent;
+    color: #007bff;
+    border: 1px solid #007bff;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-family: 'Sarabun', sans-serif;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.show-answer-btn:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+/* สไตล์สำหรับตัวเลือกที่เฉลย */
+.choices label.revealed_answer {
+    background-color: #d1ecf1; /* สีฟ้าอ่อน */
+    border-color: #bee5eb;
+    font-weight: bold;
+}
+
+/* ... (โค้ด CSS เดิมที่เหลือ) ... */

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ข้อสอบ IT Passport Examination (ITPE)</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ข้อสอบ IT Passport Examination (ITPE)</h1>
+        </header>
+        <div id="quiz-container">
+            <p>กำลังโหลดข้อสอบ...</p>
+        </div>
+        <div class="button-container">
+            <button id="submitBtn">ส่งคำตอบ</button>
+            <button id="reviewBtn" class="secondary">ดูเฉลยทั้งหมด</button>
+        </div>
+        <div id="result-container" class="hidden">
+            <h2>ผลการสอบ</h2>
+            <p id="score-text"></p>
+        </div>
+        <div id="review-container" class="hidden">
+            <!-- เฉลยจะถูกแสดงที่นี่ -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

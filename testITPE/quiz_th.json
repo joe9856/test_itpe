@@ -1,0 +1,872 @@
+[
+  {
+    "question": "ข้อใดต่อไปนี้คือสารสนเทศที่มีความจําเป็นสําหรับ CRM",
+    "choices": [
+      "ข้อมูลลูกค้าและประวัติการซื้อสินค้าของลูกค้า",
+      "ข้อมูลพิมพ์เขียว",
+      "ข้อมูลความรู้จากผู้เชี่ยวชาญ",
+      "วันและเวลาที่ขาย ร้านค้า ผลิตภัณฑ์ที่ขาย และปริมาณของสินค้าที่ขาย"
+    ],
+    "correctAnswer": "ข้อมูลลูกค้าและประวัติการซื้อสินค้าของลูกค้า"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นคําอธิบายเกี่ยวกับ CAD ที่ถูกใช้ในอุตสาหกรรมการผลิต (manufacturing industry) ได้อย่างเหมาะสมที่สุด",
+    "choices": [
+      "คือการคํานวณส่วนประกอบที่ต้องการสำหรับการวางแผนในการผลิตสินค้า และการสั่งซื้อส่วนประกอบต่าง ๆ",
+      "คือการจัดการข้อมูลเกี่ยวกับส่วนประกอบ ผลิตภัณฑ์กึ่งสำเร็จ (semi-finished product) จํานวนที่ต้องใช้ และอื่น ๆ สำหรับการผลิตสินค้าและผลิตภัณฑ์",
+      "คือการจัดการข้อมูลต่าง ๆ เช่นการออกแบบผลิตภัณฑ์และตารางส่วนประกอบอย่างเบ็ดเสร็จ ตั้งแต่ขั้นตอนการออกแบบไปจนถึงการผลิต",
+      "คือการใช้คอมพิวเตอร์ในการออกแบบผลิตภัณฑ์เพื่อเพิ่มความสามารถในการผลิตและเพิ่มความน่าเชือถือของข้อกําหนดในการออกแบบ"
+    ],
+    "correctAnswer": "คือการใช้คอมพิวเตอร์ในการออกแบบผลิตภัณฑ์เพื่อเพิ่มความสามารถในการผลิตและเพิ่มความน่าเชือถือของข้อกําหนดในการออกแบบ"
+  },
+  {
+    "question": "บริษัทแห่งหนึ่งที่กําลังพิจารณาจะเข้าสู่ตลาดในอุตสาหกรรมหนึ่งได้ดําเนินการวิเคราะห์ SWOT จากผลการวิเคราะห์ที่ได้ข้อใดต่อไปนี้เป็นข้อที่สอดคล้องกับโอกาส (opportunity)",
+    "choices": [
+      "ประสบการณ์การดําเนินธุรกิจเดิมที่มีอยู่ได้้อย่างประสบความสําเร็จ",
+      "การผ่อนคลายกฎระเบียบในอุตสาหกรรมนั้น ๆ",
+      "ศักยภาพในการผลิตสนค้าของบริษัท",
+      "เครือข่ายร้านค้าของบริษัทที่ครอบคลุมทั่วทั้งประเทศ"
+    ],
+    "correctAnswer": "การผ่อนคลายกฎระเบียบในอุตสาหกรรมนั้น ๆ"
+  },
+  {
+    "question": "ในการเปรียบเทียบระหว่างการผลิตตามสั่ง (build-to-order) กับการผลิตเพื่อสต็อค (build-to-stock) ข้อใดต่อไปนี้กล่าวถึงคุณลักษณะของการผลิตตามส่งได้อย่างเหมาะสม",
+    "choices": [
+      "การส่งสินค้าไม่สามารถกระทําได้ทันทีเมื่อได้รับคําสั่งซื้อ แต่ไม่มีความเสี่ยงต่อการมีสินค้าคงเหลือจํานวนมากค้างอยู่ในคลัง",
+      "มีความจําเป็นต้องพยากรณ์การสั่งซื้อให้แม่นยํายิ่งขึ้น และต้องคงจํานวนสินค้าในคลังให้เหมาะสมที่สุด",
+      "ทําให้เกิดความเสี่ยงที่จะเสียโอกาสจากการสั่งซื้อในกรณีที่มีสินค้าในคลังไม่เพียงพอ",
+      "สินค้าถูกผลิตขึ้นตามแผนการผลิตที่เสนอขึ้นมาโดยใช้พื้นฐานจากการพยากรณ์การสั่งซื้อ"
+    ],
+    "correctAnswer": "การส่งสินค้าไม่สามารถกระทําได้ทันทีเมื่อได้รับคําสั่งซื้อ แต่ไม่มีความเสี่ยงต่อการมีสินค้าคงเหลือจํานวนมากค้างอยู่ในคลัง"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นรูปแบบของอีคอมเมิร์ซที่สอดคล้องกับการทําธุรกิจร้านหนังสือออนไลน์หรือศูนย์การค้าออนไลน์ที่สร้างขึ้นสําหรับการใช้งานบนอินเทอร์เน็ต",
+    "choices": ["B to B", "B to C", "C to B", "C to C"],
+    "correctAnswer": "B to C"
+  },
+  {
+    "question": "จากรายการสารสนเทศที่เกี่ยวกับสถานะทางการจัดการ ข้อใดต่อไปนี้เป็นรายการที่ประกอบด้วยข้อมูลทั้งหมดที่ถูกกําหนดให้ต้องเปิดเผยในรายงานสินทรัพย์ประจําปีของบริษัทจดทะเบียน A: งบกระแสเงินสด (Cash flow statement) B: ส่วนแบ่งทางการตลาด (Market share) C: งบกําไรขาดทุน (Income statement) D: งบดุล (Balance sheet)",
+    "choices": ["A, B, C", "A, B, D", "A, C, D", "B, C, D"],
+    "correctAnswer": "A, C, D"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้กล่าวถึงจุดมุ่งหมายของ MOT (Management Of Technology) ได้อย่างถูกต้อง",
+    "choices": [
+      "เพื่อเพิ่มความสามารถในการผลิตโดยใชคณิตศาสตร์และวิทยาศาสตร์ธรรมชาติ (natural science) ในการบริหารธุรกิจและการบริหารงานผลิต (production management)",
+      "เพื่อทําให้ธุรกิจเติบโตด้วยการเชื่อมโยงนวัตกรรมทางเทคโนโลยี (technical innovation) เข้ากับธุรกิจอย่างมีประสิทธิภาพ",
+      "เพื่อเพิ่มคุณภาพของบริษัทด้วยการรับรองว่า พนักงานได้ใช้ความพยายามในการทํางานอย่างมีระบบเพื่อพัฒนาคุณสมบัติของผลิตภัณฑ์",
+      "เพื่อเพิ่มประสิทธิภาพของกระบวนการทางธุรกิจด้วยการนําเทคนิคและความรู้ที่จําเป็นจากพนักงานอาวุโสมาใช้ผ่านการดําเนินการทางธุรกิจจริง ๆ ในสถานที่ทํางาน"
+    ],
+    "correctAnswer": "เพื่อทําให้ธุรกิจเติบโตด้วยการเชื่อมโยงนวัตกรรมทางเทคโนโลยี (technical innovation) เข้ากับธุรกิจอย่างมีประสิทธิภาพ"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นเทคนิคทางการตลาดที่ประกอบไปด้วยสวนประกอบ 4 อย่าง: สินค้า (product) ราคา (price) สถานที่ (place) และกิจกรรมส่งเสริมการขาย (promotion)",
+    "choices": [
+      "การตลาดเชิงสังคม (social marketing)",
+      "การตลาดขายตรง (direct marketing)",
+      "ช่องทางการตลาด (marketing channel)",
+      "การผสมผสานการตลาด (marketing mix)"
+    ],
+    "correctAnswer": "การผสมผสานการตลาด (marketing mix)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นสถานการณ์ที่คาดหวังได้ว่าจะปรับปรุงให้ดีขึ้นได้ด้วยการติดตั้งแบบระบบวางแผนความต้องการวัสดุ (MRP: Material Requirements Planning)",
+    "choices": [
+      "ข้อมูลการออกแบบ (drawing information) ถูกจัดการโดยใช้ไฟล์อิเล็กทรอนิกส์และเอกสารฉบับพิมพ์ ดังนั้นจึงไม่สามารถทราบถึงประวัติความเปลี่ยนแปลงการออกแบบได้อย่างถูกต้อง",
+      "ข้อมูลเกี่ยวกับวัสดุที่จําเป็นสําหรับการผลิตและจํานวนที่ต้องใช้มีไม่เพียงพอหรือไม่ถูกต้อง ทําให้การผลิตได้รับผลกระทบในทางลบ",
+      "มีการร้องขอเปลี่ยนแปลงการออกแบบแบบมากเกินไป ทําให้ประสิทธิภาพการผลิตไม่เพิ่มขึ้น",
+      "การผลิตแบบเน้นความหลากหลายในปริมาณน้อย (high-mix, low-volume) ถูกเลือกใช้ทําให้ต้้นทุนการติดตั้งอุปกรณ์การผลิตเพิ่มสูงขึ้น"
+    ],
+    "correctAnswer": "ข้อมูลเกี่ยวกับวัสดุที่จําเป็นสําหรับการผลิตและจํานวนที่ต้องใช้มีไม่เพียงพอหรือไม่ถูกต้อง ทําให้การผลิตได้รับผลกระทบในทางลบ"
+  },
+  {
+    "question": "จากระบบบริหารจัดการทางธุรกิจต่าง ๆ ข้อใดต่อไปนี้ มีวัตถุประสงค์เพื่อเพิ่มมูลค่าตลอดช่วงชีวิตลูกค้า (customer lifetime value) ให้มากที่สุด ในที่นี้มูลค่าตลอดช่วงชีวิตลูกค้าคือผลกําไรที่คาดว่าลูกค้ารายหนึ่งๆ จะนําเข้าสู่บริษัทได้ตลอดช่วงชีวิตของลูกค้า",
+    "choices": ["CRM", "ERP", "SCM", "SFA"],
+    "correctAnswer": "CRM"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นการแสดงถึงตัวอย่างของการปรับปรุงกระบวนการทางธุรกิจโดยใช้ CAD ได้อย่างเหมาะสม",
+    "choices": [
+      "การควบคุมคลังสินค้าแบบอัตโนมัติด้วยการติดตั้งแท็กไอซีบนสินค้าแต่ละชิ้นแล้วติดตามการขนส่งสินค้า",
+      "การควบคุมอุณหภูมิในกระบวนการผลิตให้เหมาะสมด้วยการติดตั้งเซนเซอร์วัดอุณหภูมิในสายการผลิตแล้วคอยติดตามอุณหภูมิระหว่างการดําเนินการ",
+      "การแปลงข้อมูลการออกแบบลงในฐานข้อมูล แล้วนําภาพวาดการออกแบบ (drawing) นั้นมาแบ่งปันและใช้ซ้ำ",
+      "การทําให้สายการผลิตเป็นอัตโนมัติด้วยการใช้หุ่นยนต์ ทําให้ได้โรงงานอัตโนมัติที่ไม่ต้องใช้มนุษย์ควบคุม"
+    ],
+    "correctAnswer": "การแปลงข้อมูลการออกแบบลงในฐานข้อมูล แล้วนําภาพวาดการออกแบบ (drawing) นั้นมาแบ่งปันและใช้ซ้ำ"
+  },
+  {
+    "question": "บริษัทแห่งหนึ่งต้องการสร้างไฟล์ดิจิทัลจากเอกสารกระดาษและพิมพ์เขียวกระดาษ และทําให้ดิจิทัลไฟล์เหล่านี้สามารถใช้ได้ทั่วทั้งบริษัท อุปกรณ์ใดต่อไปนี้เป็นอุปกรณ์ที่ควรถูกนํามาใช้",
+    "choices": [
+      "ตัวรับสัญญาณ GPS",
+      "แสกนเนอร์ (Scanner)",
+      "ดิจิไทเซอร์ (Digitizer)",
+      "พล็อตเตอร์ (Plotter)"
+    ],
+    "correctAnswer": "แสกนเนอร์ (Scanner)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้คือเทคโนโลยีที่ถูกนิยามโดยมาตรฐานนานาชาติในหลายประเทศ และถูกใช้ในบัตร IC แบบไร้สัมผัส (contactless) เช่นบัตรที่ใช้สำหรับการขนส่งสาธารณะ",
+    "choices": ["IrDA", "RFID", "Bluetooth", "Wi-Fi"],
+    "correctAnswer": "RFID"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นกรณีตัวอย่างที่เกี่ยวข้องกับการตรวจสอบแบบย้อนกลับ (traceability)",
+    "choices": [
+      "การประยุกต์ใช้คอมพิวเตอร์กับการศึกษาด้วยการใช้อินเตอร์เน็ตและเทคโนโลยีเว็",
+      "การเอาต์ซอร์สกิจกรรมด้านการพัฒนาทั้งหมดให้กับบริษัทภายนอกที่มีความเชี่ยวชาญ ทําให้ไม่ต้องมีแผนกพัฒนาเป็นของบริษัทเอง",
+      "การแบ่งปันความรู้และข้อมูลของพนักงานในองค์กรให้ทั่วถึงกันทั้งบริษัทและนําไปใช้เพิ่มประสิทธิภาพทางธุรกิจได้อย่างมีประสิทธิภาพ",
+      "การสามารถตรวจสอบประวัติจากขั้นตอนการผลิตจนถึงการขายโดยใช้ฉลากผลิตภัณฑ์ที่ติดอยู่บนผลิตภัณฑ์เนื้อสัตว์และปลา"
+    ],
+    "correctAnswer": "การสามารถตรวจสอบประวัติจากขั้นตอนการผลิตจนถึงการขายโดยใช้ฉลากผลิตภัณฑ์ที่ติดอยู่บนผลิตภัณฑ์เนื้อสัตว์และปลา"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้อธิบายเกี่ยวกับ EDI ได้ดีที่สุด",
+    "choices": [
+      "คือมาตรฐานสากลสําหรับบริการทางด้านจดหมายอิเล็กทรอนิกส์บนพื้นฐานของรูปแบบอ้างอิง OSI ซึ่งให้บริการสำหรับการสร้าง การถ่ายโอน และการประมวลผลข้อความ",
+      "คือบริการด้านการสื่อสารที่ให้บริการมูลค่าเพิ่มต่าง ๆ เช่นหน่วยจัดเก็บข้อมูลผ่านเครือข่ายและ การแปลงรูปแบบของข้อมูล",
+      "คือการแลกเปลี่ยนรายการข้อมูลธุรกิจ (business transaction) ระหว่างเครื่องคอมพิวเตอร์ (รวมถึงเทอร์มินัล) ผ่านเครือข่ายให้เป็นไปตามรูปแบบมาตรฐาน",
+      "คือระบบสั่งซื้อช่วยให้ส่งคำสั่งซื้อได้ด้วยการส่งข้อมูลสั่งซื้อจากอินเทอร์มินัลป้อข้อมูลไปยังสำนักงานใหญ่หรือผู้ขายต่างๆ"
+    ],
+    "correctAnswer": "คือการแลกเปลี่ยนรายการข้อมูลธุรกิจ (business transaction) ระหว่างเครื่องคอมพิวเตอร์ (รวมถึงเทอร์มินัล) ผ่านเครือข่ายให้เป็นไปตามรูปแบบมาตรฐาน"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้อธิบายถึงเทอร์มินัลหรือจุด POS หรือเครื่องบันทึกเงินสด POS (POS Terminals หรือ POS cash registers) ที่ใช้ในซุปเปอร์มาร์เก็ตหรือที่ร้านค้าต่าง ๆ ได้อย่างเหมาะสม",
+    "choices": [
+      "เป็นเทอร์มินัลของระบบที่ถูกใช้รวบรวมและจัดการข้อมูล เช่น รหัสสินค้าและราคาสินค้า ณ ช่วงเวลาที่เกิดธุรกรรมการซื้อสินค้า (ณ จุดขาย “Point of Sale”)",
+      "เป็นเทอร์มินัลของระบบสั่งซื้อ (Purchase Order System) โดยมีหน้าที่หลักเป็นการสั่งซื้อสินค้าอัตโนมัติสําหรับการเติมสินค้า",
+      "เป็นเทอร์มินัลของระบบการจัดการสินค้าทางยุทธศาสตร์ที่ถูกพัฒนาขึ้นเพื่อติดตามความเป็นไปได้ของการอยู่รอด (Probability of Survival) ของสินค้าดังกล่าว",
+      "เป็นเทอร์มินัลของระบบการจัดการสินค้าคงคลังที่ผลิตครั้งแรกที่เมือง Port of Spain และเป็นผู้ที่ถือครองส่วนแบ่งการตลาดอย่างมาก"
+    ],
+    "correctAnswer": "เป็นเทอร์มินัลของระบบที่ถูกใช้รวบรวมและจัดการข้อมูล เช่น รหัสสินค้าและราคาสินค้า ณ ช่วงเวลาที่เกิดธุรกรรมการซื้อสินค้า (ณ จุดขาย “Point of Sale”)"
+  },
+  {
+    "question": "RFID สามารถทําให้เกิดระบบในข้อใดต่อไปนี้",
+    "choices": [
+      "สามารถทําการรักษาด้วยการส่งภาพและเสียงของผู้ป่วยจากที่ห่างไกลผ่านระบบเครือข่าย",
+      "ฝากและถอนเงินจากตู้เอทีเอ็มโดยใชบัตรเอทีเอ็ม",
+      "อ่านข้อมูลผลิตภัณฑ์จากบาร์โค้ดบนผลิตภัณฑ์และจากนั้นจึงจัดการกับข้อมูลการขายและประมวลผลคําส่งซื้อในจังหวะเวลาที่เกิดการขายขึ้นในร้าน",
+      "การติดตั้งแท็กอิเล็กทรอนิกส์บนพัสดุที่ถูกส่งและการตรวจสอบข้อมูลประวัติการขนส่งของพัสดุนั้นๆ"
+    ],
+    "correctAnswer": "การติดตั้งแท็กอิเล็กทรอนิกส์บนพัสดุที่ถูกส่งและการตรวจสอบข้อมูลประวัติการขนส่งของพัสดุนั้นๆ"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้อธิบายได้เหมาะสมที่สุดเกี่ยวกับระบบบัตรสะสมคะแนน (point card system) หรือโปรแกรมความสม่ำเสมอ (loyalty program) ที่นําเสนอโดยผู้ค้าปลีก",
+    "choices": [
+      "เป็นระบบที่ช่วยให้ผู้สมัครบัตรสามารถซื้อสินค้าภายใต้เครดิตที่กําหนด แล้วจึงชำระเงินตามยอดที่ใชไปในภายหลัง",
+      "เป็นระบบที่ช่วยให้สามารถชำระเงินในการซื้อสินค้าผ่านบัตรเอทีเอ็มของธนาคาร",
+      "เป็นระบบที่เครดิตตามยอดการซื้อถูกเก็บรวบรวมไว้ และมีบริการต่าง ๆ ที่เสนอให้สอดคล้องกับเครดิตที่สะสมได้",
+      "เป็นระบบที่มีการชำระเงินไว้ล่วงหน้าเพื่อเตรียมไว้สำหรับซื้อสินค้าต่าง ๆ และจํานวนเงินที่ใช้ซื้อสินค้าในแต่ละครั้งจะถูกหักออกจากบัตร"
+    ],
+    "correctAnswer": "เป็นระบบที่เครดิตตามยอดการซื้อถูกเก็บรวบรวมไว้ และมีบริการต่าง ๆ ที่เสนอให้สอดคล้องกับเครดิตที่สะสมได้"
+  },
+  {
+    "question": "จากตําแหน่งผู้บริหารระดับสูงที่กําหนดให้ต่อไปนี้ บุคคลตําแหน่งใดทําหน้าที่ควบคุมดูแลระบบสารสนเทศ",
+    "choices": ["CEO", "CFO", "CIO", "COO"],
+    "correctAnswer": "CIO"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้ที่เป็นการรวมกันอย่างเหมาะสมของแนวทางการบริหาร (management theme) และเทคนิค (technique) เพื่อให้ผลนั้น [แนวทางการบริหาร]A: บริษัทต้องการที่จะพัฒนากระบวนการธุรกิจให้มีประสิทธิภาพที่ครอบคลุมตั้งแต่การจัดซื้อชิ้นส่วนไปจนถึงการขาย B: บริษัทต้องการที่จะเข้าใจความพึงพอใจของลูกค้า และข้อมูลอื่น ๆ และใช้ข้อมูลเหล่านี้เพื่อการวางแผนการผลิตสินค้าและการส่งเสริมการขาย C: บริษัทต้องการที่จะรู้ชื่อสินค้า จํานวน และข้อมูลที่เกี่ยวข้องกับการขายในช่วงเวลาที่ขายเพื่อให้สามารถเติมสินค้าได้อย่างเหมาะสมและวิเคราะห์สินค้าที่ขายดี [เทคนิค]   CRM, POS, SCM",
+    "choices": [
+      "A:SCM, B:CRM, C:POS",
+      "A:SCM, B:POS, C:CRM",
+      "A:POS, B:CRM, C:SCM",
+      "A:CRM, B:SCM, C:POS"
+    ],
+    "correctAnswer": "A:SCM, B:CRM, C:POS"
+  },
+  {
+    "question": "บริษัท X พบความเป็นไปได้ที่อาจเกิดความล่าช้าในการเปิดตัวผลิตภัณฑ์ Y ซึ่งเป็นสินค้าใหม่ ที่อยู่ระหว่างการพัฒนา และผลกระทบต่อประสิทธิภาพในอนาคตได้ถูกวิเคราะห์และประเมินผล ข้อใดต่อไปนี้สอดคล้องกับแนวความคิด",
+    "choices": [
+      "การวิเคราะห์ ABC",
+      "การวิเคราะห์ SWOT",
+      "การประเมินทางด้านสิ่งแวดล้อม",
+      "การประเมินความเสี่ยง"
+    ],
+    "correctAnswer": "การประเมินความเสี่ยง"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นคําอธิบายของช่วงอิ่มตัว (maturity stage) ในวงจรชีวิตผลิตภัณฑ์ (product life cycle)",
+    "choices": [
+      "คือช่วงที่ยอดการขายเพิ่มขึ้นอย่างรวดเร็ว และการแข่งขันรุนแรงขึ้นจากการเข้าสู่ตลาดของคู่แข่งหน้าใหม่",
+      "คือช่วงที่ยอดการขายและผลกําไรลดลงอย่างรวดเร็ว ช่วงนี้เป็นช่วงที่ควรพิจารณาว่าจะถอนตัวออกจากตลาดหรือไม่",
+      "คือช่วงที่การเติบโตของความต้องการหรืออุปสงค์ลดลง มาตรการต่าง ๆ เช่นการพัฒนาคุณภาพผลิตภัณฑ์หรือการเปลี่ยนรูปโฉมถูกนํามาใช้เพื่อคงส่วนแบ่งการตลาดและเพื่อให้ได้ผลกําไร",
+      "คือช่วงที่ผลิตภัณฑ์ถูกทําตลาดไปยังลูกค้ากลุ่มแรก ๆ (early adopter) และกลยุทธ์ต่าง ๆ เพื่อเพิ่มการรับรู้แบรนด์ถูกวางแผนและนํามาใช้"
+    ],
+    "correctAnswer": "คือช่วงที่การเติบโตของความต้องการหรืออุปสงค์ลดลง มาตรการต่าง ๆ เช่นการพัฒนาคุณภาพผลิตภัณฑ์หรือการเปลี่ยนรูปโฉมถูกนํามาใช้เพื่อคงส่วนแบ่งการตลาดและเพื่อให้ได้ผลกําไร"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นสถานการณ์ที่คาดได้ว่าจะมีพัฒนาการไปในทางที่ดีขึ้นได้ด้วยการติดตั้งระบบวางแผนความต้องการวัสดุ MRP (Material Requirements Planning)",
+    "choices": [
+      "ข้อมูลภาพวาดของการออกแบบถูกจัดการทั้งในรูปแบบของไฟล์และสิ่งพิมพ์ ทําให้ไม่สามารถทําความเข้าใจประวัติการเปลี่ยนแปลงการออกแบบได้อย่างถูกต้อง",
+      "ข้อมูลเกี่ยวกับวัสดุที่จําเป็นต่อการผลิตและจํานวนที่ต้องการมีความซับซ้อน ทําให้จํานวนที่สั่งซื้อไม่ถูกต้องอยู่บ่อยครั้ง จึงส่งผลเสียต่อการกระบวนการผลิต",
+      "เนื่องจากมีการเปลี่ยนแปลงการออกแบบบ่อยครั้ง ทําให้ประสทธิภาพในการผลิตตกต่ำ",
+      "การผลิตที่มีความหลากหลายสูงในปริมาณน้อย (high-mix, low-volume) ถูกนํามาใช้ส่งผลให้ค่าใช้จ่ายในการติดตั้งอุปกรณ์ในการผลิตเพิ่มสูงขึ้น"
+    ],
+    "correctAnswer": "ข้อมูลเกี่ยวกับวัสดุที่จําเป็นต่อการผลิตและจํานวนที่ต้องการมีความซับซ้อน ทําให้จํานวนที่สั่งซื้อไม่ถูกต้องอยู่บ่อยครั้ง จึงส่งผลเสียต่อการกระบวนการผลิต"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นวัตถุประสงค์ทางธุรกิจที่สามารถเป็นไปได้จากการ “นําระบบ POS เข้ามาใช้”",
+    "choices": [
+      "การเพิ่มผลิตภาพในการทํางานของพนักงานขายและการสร้างความเข้มแข็งให้แผนกขายขององค์กร",
+      "การลดจํานวนชิ้นส่วนและสินค้าที่ยังผลิตไม่แล้วเสร็จที่อยู่ในคลังสินค้า",
+      "การทําให้ขั้นตอนของกระบวนการตั้งแต่การจัดหาไปถึงการผลิต การขนส่งและการขายเป็นไปอย่างเหมาะสม",
+      "การเพิ่มความหลากหลายของสินค้า (product lineup) ในแต่ละร้านค้า และการปรับปรุงการควบคุมคลังสินค้าและการสั่งซื้อที่มีประสิทธิภาพมากขึ้น"
+    ],
+    "correctAnswer": "การเพิ่มความหลากหลายของสินค้า (product lineup) ในแต่ละร้านค้า และการปรับปรุงการควบคุมคลังสินค้าและการสั่งซื้อที่มีประสิทธิภาพมากขึ้น"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นคําที่ใช้เรียกวิธีใช้ข้อมูลเช่นข้อมูลยอดขายสะสมเพื่อค้นหาความสม่ำเสมอ (regularity) เช่นความสัมพันธ์ระหว่างสภาพอากาศกับผลิตภัณฑ์ที่ขายดี",
+    "choices": [
+      "คลังข้อมูล (data warehouse)",
+      "การประมวลผลข้อมูล (data processing)",
+      "การทําเหมืองข้อมูล (data mining)",
+      "การสร้างแบบจําลองข้อมูล (data modeling)"
+    ],
+    "correctAnswer": "การทําเหมืองข้อมูล (data mining)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นรายการที่จําเป็นต้องได้รับการพิจารณาขณะร่างกลยุทธ์ระบบสารสนเทศ (information systems strategy)",
+    "choices": [
+      "วิธีการลดระยะเวลาการพัฒนา",
+      "ความสอดคล้องกับกลยุทธ์ต่าง ๆ ทางธุรกิจ",
+      "วิธีการลดต้นทุน",
+      "การแนะนําเทคโนโลยีล่าสุด"
+    ],
+    "correctAnswer": "ความสอดคล้องกับกลยุทธ์ต่าง ๆ ทางธุรกิจ"
+  },
+  {
+    "question": "แพคเกจ ERP เป็นชุดโปรแกรมที่รวมเอาซอฟต์แวร์ประยุกต์ทั้งหมดที่ถูกใช้เพื่อบริหารจัดการกระบวนการทางธุรกิจ เช่นการจัดการการเงิน การจัดซื้อ ทรัพยากรบุคคล การบริหารเงินเดือน ข้อใดต่อไปนี้คือคําอธิบายที่เหมาะสมที่สุดเกี่ยวแพคเกจ ERP ดังกล่าว",
+    "choices": [
+      "การติดตั้งแพคเกจ ERP สามารถทําได้ง่ายเพราะไม่จําเป็นต้องวิเคราะห์กระบวนการทางธุรกิจของบริษัท",
+      "แพคเกจ ERP ควรได้รับการบํารุงรักษาแยกไปโดยแผนกของผู้ใช้งานแต่ละคน (individual user departments) หลังจากเสร็จสิ้นการติดตั้ง",
+      "แพคเกจ ERP ควรถูกติดตั้งหลังจากที่กระบวนการทางธุรกิจของบริษัทได้รับการทบทวนและทําให้เป็นมาตรฐาน (standardized) แล้ว",
+      "แพคเกจ ERP เป็นซอฟต์แวร์ระบบ (system software) ชนิดบูรณาการ ซึ่งได้รับการออกแบบขึ้นมาสําหรับกระบวนการทางธุรกิจในประเทศ (domestic business process) โดยเฉพาะ"
+    ],
+    "correctAnswer": "แพคเกจ ERP ควรถูกติดตั้งหลังจากที่กระบวนการทางธุรกิจของบริษัทได้รับการทบทวนและทําให้เป็นมาตรฐาน (standardized) แล้ว"
+  },
+  {
+    "question": "บริษัท A เป็นผู้ผลิตอุปกรณ์อิเล็กทรอนิกส์ขนาดกลางแห่งหนึ่ง ได้แบ่งผลิตภัณฑ์ของบริษัทออกเป็นกลุ่มๆ โดยดูจากศักยภาพและความเข้มแข็งในการแข่งขัน เพื่อพิจารณาความสําคัญในการจัดสรรการลงทุนตามสายของผลิตภัณฑ์ ข้อใดต่อไปนี้เป็นวิธีการวิเคราะห์ที่เหมาะสมที่สุดตามวัตถุประสงค์นี้",
+    "choices": [
+      "การวิเคราะห์กลุ่ม (Cluster analysis) โดยดูจากราคาและฐานลูกค้าของผลิตภัณฑ์ต่าง ๆ ของบริษัท",
+      "การวิเคราะห์ RFM โดยดูจากลูกค้าที่ซื้อผลิตภัณฑ์ต่าง ๆ ของบริษัท",
+      "การวิเคราะห์ PPM โดยดูจากส่วนแบ่งและอัตราการเติบโตทางการตลาดของผลิตภัณฑ์ต่าง ๆ ของบริษัท",
+      "การวิเคราะห์องค์ประกอบหลัก (Principle component analysis) โดยดูจากสาเหตุของการเกิดข้อผิดพลาดในผลิตภัณฑ์ต่าง ๆ ของบริษัท"
+    ],
+    "correctAnswer": "การวิเคราะห์ PPM โดยดูจากส่วนแบ่งและอัตราการเติบโตทางการตลาดของผลิตภัณฑ์ต่าง ๆ ของบริษัท"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เหมาะสําหรับการใช้เป็นแกนต่าง ๆ สำหรับการประเมิน (evaluation axes) ใน PPM ที่ถูกนํามาใช้เพิ่มประสิทธิภาพในการจัดสรรทรัพยากรต่าง ๆ ให้กับธุรกิจที่หลากหลายในบริษัทแห่งหนึ่ง",
+    "choices": [
+      "เทคโนโลยี และ สินค้า (technology and products)",
+      "อัตราการเติบโตของตลาด และ ส่วนแบ่งการตลาด (market growth rate and market share)",
+      "สินค้า และ ตลาด (products and markets)",
+      "จุดแข็งและจุดอ่อน (strengths and weaknesses) โอกาสและอุปสรรค (opportunities and threats)"
+    ],
+    "correctAnswer": "อัตราการเติบโตของตลาด และ ส่วนแบ่งการตลาด (market growth rate and market share)"
+  },
+  {
+    "question": "แม้ว่าคลังข้อมูล (data warehouse) จะใช้งานได้แล้ว แต่กลับพบว่ายังไม่ถูกใช้งานมากนัก ผลจากการสัมภาษณ์พบว่าระดับความสามารถของผู้ใช้ อยู่ต่ำกว่าที่คาดการณ์ไว้ ข้อใดต่อไปนี้เป็นแผนการที่เหมาะสมสําหรับการส่งเสริมการใช้คลังข้อมูลให้เกิดประโยชน์มากขึ้น",
+    "choices": [
+      "การแจ้งเตือนการส่งเสริมการใช้งานผ่านทางผู้จัดการไปยังผู้ใช้",
+      "การจัดเตรียมเทมเพลตมาตรฐานสําหรับการสกัดข้อมูลและแบบแผนในการวิเคราะห์ข้อมูล",
+      "การจัดเตรียมข้อมูลตามเวลาจริงอย่างทันท่วงทีเพื่อเพิ่มความแม่นยําของข้อมูล",
+      "การเพิ่มข้อมูลที่คาดว่ามีความจําเป็นต่อผู้ใช้"
+    ],
+    "correctAnswer": "การจัดเตรียมเทมเพลตมาตรฐานสําหรับการสกัดข้อมูลและแบบแผนในการวิเคราะห์ข้อมูล"
+  },
+  {
+    "question": "เมื่อแผนดําเนินการสําหรับระบบสารสนเทศสําหรับทั้งองค์กร (company-wide information system) ที่สอดคล้องกับกลยุทธ์ทางธุรกิจกําลังจะถูกสร้างขึ้น ข้อใดดังต่อไปนี้คือบุคคลที่เหมาะสมที่สุดที่จะรับผิดชอบต่อกิจกรรมดังกล่าว",
+    "choices": [
+      "CIO",
+      "CTO",
+      "หัวหน้าแผนกธุรกิจหลัก (Head of the core business department)",
+      "บุคลากรที่รับผิดชอบในการวางแผนในแผนกระบบสารสนเทศ"
+    ],
+    "correctAnswer": "CIO"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นคําที่มักถูกใช้กล่าวถึงการสร้างโมเดลทางธุรกิจที่เปลี่ยนแปลงโลก (epoch making business model) หรือการปฏิรูปทางเทคโนโลยี (reform in technology)",
+    "choices": [
+      "นวัตกรรม (Innovation)",
+      "การย้ายถิ่นฐาน (Migration)",
+      "ทางเลือกที่เป็นจริง (Real option)",
+      "การปฏิวัติ (Revolution)"
+    ],
+    "correctAnswer": "นวัตกรรม (Innovation)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นส่วนหนึ่งของงบกระแสเงินสด (cash flow statement) ซึ่งมีการรายงานรายได้จากการขายผลิตภัณฑ์",
+    "choices": [
+      "กิจกรรมทางการขาย (Sales activities)",
+      "กิจกรรมทางการเงิน (Financial activities)",
+      "กิจกรรมการลงทุน (Investment activities)",
+      "กิจกรรมการบริหารจัดการ (Administrative activities)"
+    ],
+    "correctAnswer": "กิจกรรมทางการขาย (Sales activities)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นระบบที่รวบรวมข้อมูลที่จําเป็นสําหรับการจัดการการขาย (sale management) หรือการควบคุมสินค้าคงคลัง (inventory control) ด้วยการป้อนหรืออ่านรหัสสินค้าหรือข้อมูลลูกค้า ณ เวลาที่ขายสินค้า",
+    "choices": ["ETC", "GPS", "POS", "SCM"],
+    "correctAnswer": "POS"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้อธิบายถึง CAD ได้อย่างเหมาะสม",
+    "choices": [
+      "การศึกษาเกี่ยวกับการใช้งานคอมพิวเตอร์",
+      "กิจกรรมด้านการผลิตด้วยการใช้คอมพิวเตอร์",
+      "การออกแบบและร่างแบบด้วยการใช้คอมพิวเตอร์",
+      "การออกแบบ พัฒนา และบํารุงรักษาซอฟต์แวร์ด้วยการใช้คอมพิวเตอร์"
+    ],
+    "correctAnswer": "การออกแบบและร่างแบบด้วยการใช้คอมพิวเตอร์"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้อธิบายเกี่ยวกับบาลานซสกอร์การ์ด (BSC: Balanced Scorecard) ได้อย่างเหมาะสม",
+    "choices": [
+      "คือการวิเคราะห์ว่ากิจกรรมใดบ้างที่สร้างมูลค่าให้สินค้าและบริการที่ให้กับลูกค้า",
+      "คือการสร้างกลยุทุทธ์และประเมินประสิทธิภาพจากมุมมองสี่ด้าน: การเงิน, ลูกค้า, กระบวนการทางธุรกิจภายใน และการเรียนรู้และเติบโต",
+      "คือการบันทึกรายการต่าง ๆ ในสมุดบัญชี (ledger) เพื่อให้มั่นใจได้ว่ายอดเครดิตและเดบิตสมดุลกัน",
+      "คือการให้คะแนนและประเมินความน่าเชื่อถือทางเครดิต (creditworthiness) ของหุ้นส่วนทางธุรกิจผ่านกลไกเช่นตัวบ่งชี้สถานะทางการเงินต่าง ๆ"
+    ],
+    "correctAnswer": "คือการสร้างกลยุทุทธ์และประเมินประสิทธิภาพจากมุมมองสี่ด้าน: การเงิน, ลูกค้า, กระบวนการทางธุรกิจภายใน และการเรียนรู้และเติบโต"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นกิจกรรมที่รองรับด้วยระบบ CAD",
+    "choices": [
+      "การออกแบบกระบวนการ (process designing)",
+      "การวางแผนการผลิต (production planning)",
+      "การออกแบบผลิตภัณฑ์ (product designing)",
+      "การวางแผนส่งมอบ (delivery planning)"
+    ],
+    "correctAnswer": "การออกแบบผลิตภัณฑ์ (product designing)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้กล่าวถึงกฎของ “การระดมสมอง” ซึ่งเป็นหนึ่งในวิธีสำหรับแก้ไขปัญหา",
+    "choices": [
+      "ผู้เข้าร่วมควรเลือกและนําเสนอเฉพาะแนวคิดที่มีคุณภาพจากแนวคิดต่าง ๆ ทั้งหมดเท่านั้น",
+      "ผู้เข้าร่วมควรวิพากษ์วิจารณ์แนวคิดของผู้เข้าร่วมรายอื่น ๆ ได้โดยไม่ต้องลังเล",
+      "ผู้เข้าร่วมควรหลีกเลี่ยงการนําเสนอแนวคิดที่ใช้พื้นฐานจากแนวคิดของผู้เข้าร่วมรายอื่นมาต่อยอดให้ดีขึ้น",
+      "ผู้เข้าร่วมควรรับฟังความคิดเห็นที่ดูโลดโผน รวมไปถึงแนวคิดที่เป็นเอกลักษณ์ต่าง ๆ ด้วย"
+    ],
+    "correctAnswer": "ผู้เข้าร่วมควรรับฟังความคิดเห็นที่ดูโลดโผน รวมไปถึงแนวคิดที่เป็นเอกลักษณ์ต่าง ๆ ด้วย"
+  },
+  {
+    "question": "บริษัทสายการบิน A กําหนดเป้าหมายเชิงกลยุทธ์สำหรับมุมมองทั้ง 4 ของการวัดผลองค์กรแบบสมดุล (Balanced Scorecard: BSC) เพื่อให้เป็นไปตามกลยุทธ์ของธุรกิจ ข้อใดต่อไปนี้สอดคล้องกับ II ในทีมนี้มุมมองที่ I ถึง IV สอดคล้องกับหนึ่งในตัวเลือกตั้งแต่ a) ถึง d) (ภาพ: I. เพิ่มความสามารถในการทำกำไร -> II. ... -> III. ลดระยะเวลาที่ต้องอยู่บนพื้นดิน -> IV. เพิ่มทักษะของพนักงานภาคพื้นดิน)",
+    "choices": [
+      "มุมมองด้านการเรียนรู้และพัฒนา (Learning and growth viewpoint)",
+      "มุมมองด้านกระบวนการทางธุรกิจ (Business process viewpoint)",
+      "มุมมองด้านลูกค้า (Customer viewpoint)",
+      "มุมมองด้านการเงิน (Financial viewpoint)"
+    ],
+    "correctAnswer": "มุมมองด้านลูกค้า (Customer viewpoint)"
+  },
+  {
+    "question": "ในกรณีที่ต้องการลดจํานวนสินค้าในระหว่างการผลิตหรือสินค้าคงคลังที่เกิดขึ้นระหว่างกระบวนการ กระบวนการผลิตจึงถูกดําเนินการในแต่ละกระบวนการจะผลิตตามความต้องการใช้งานของกระบวนการในขั้นตอนต่อไป และจํานวนที่ต้องการใช้งานจะถูกจัดสรรให้เมื่อถึงเวลาที่กระบวนการต่อไปนั้นต้องใช้เท่านั้น ข้อใดต่อไปนี้คือระบบที่ดําเนินการผลิตตามรูปแบบที่กล่าวมา",
+    "choices": [
+      "ระบบการผลิตแบบทันเวลาพอดี (Just-in-time production system)",
+      "ระบบการผลิตแบบเซลล์ (Cell production system)",
+      "ระบบการผลิตแบบผลิตเพื่อจัดเก็บ (Build-to-stock production system)",
+      "ระบบการผลิตแบบล็อต (Lot production system)"
+    ],
+    "correctAnswer": "ระบบการผลิตแบบทันเวลาพอดี (Just-in-time production system)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นขอบเขตความรับผิดชอบของ CFO ซึ่งเป็นตําแหน่งผู้บริหารระดับองค์กร",
+    "choices": [
+      "เทคโนโลยี (technology)",
+      "การเงิน (finance)",
+      "สารสนเทศ (information)",
+      "บุคคล (personnel)"
+    ],
+    "correctAnswer": "การเงิน (finance)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นวิธีการดําเนินแผนกลยุทธ์ทางการตลาดด้วยการนําหลาย ๆ องค์ประกอบทางการตลาดมารวมไว้ด้วยกัน",
+    "choices": [
+      "แนวคิดทางการตลาด (Marketing concept)",
+      "ช่องทางการตลาด (Marketing cannel)",
+      "ส่วนผสมทางการตลาด (Marketing mix)",
+      "การนําออกตลาด (Merchandising)"
+    ],
+    "correctAnswer": "ส่วนผสมทางการตลาด (Marketing mix)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นคําอธิบายที่เหมาะสมเกี่ยวกับการวิเคราะห์ SWOT",
+    "choices": [
+      "เป็นเทคนิคสําหรับการค้นหาทิศทางอนาคตของกิจกรรมขององค์กรโดยการวิเคราะห์โอกาสและอุปสรรค ภายใต้ปัจจัยแวดล้อมภายนอกรอบ ๆ บริษัท และจุดแข็งและจุดอ่อนของบริษัท",
+      "เป็นเทคนิคสําหรับการออกแบบกิจกรรมขององค์กรที่มาจากแนวคิดที่ว่ากิจกรรมนั้นสร้างคุณค่าแบบใดขึ้นมาสําหรับลูกค้าและผลที่ได้ทําให้ลูกค้าพึงพอใจหรือไม่",
+      "เป็นเทคนิคสําหรับการประเมินและวิเคราะห์ผลการดําเนินงานธุรกิจของบริษัท ในวิธีการที่สมดุลจากมุมมองของด้านการเงิน ลูกค้า กระบวนการธุรกิจภายใน การเรียนรู้และการเติบโต",
+      "เป็นเทคนิคสําหรับสร้างเมทริกซ์ของธุรกิจที่ถูกสร้างขึ้นจากคุณค่าเชิงปริมาณสองค่า ได้แก่อัตราการเติบโตของตลาดและส่วนแบ่งการตลาด แล้วจัดการจัดสรรทรัพยากรให้เหมาะสม"
+    ],
+    "correctAnswer": "เป็นเทคนิคสําหรับการค้นหาทิศทางอนาคตของกิจกรรมขององค์กรโดยการวิเคราะห์โอกาสและอุปสรรค ภายใต้ปัจจัยแวดล้อมภายนอกรอบ ๆ บริษัท และจุดแข็งและจุดอ่อนของบริษัท"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นรายการที่ควรระบุให้ชัดเจนไว้ในกลยุทธ์ระบบสารสนเทศ (information system strategy) ของบริษัท",
+    "choices": [
+      "นโยบายธรรมาภิบาลไอที (IT governance policy)",
+      "โครงสร้างสําหรับการพัฒนาระบบที่มีความสําคัญอย่างยิ่ง (mission-critical system)",
+      "เงื่อนไขในการประเมินข้อเสนอของผู้ค้า (vendor proposal)",
+      "ผลการวิเคราะห์ความต้องการของผู้ใช้"
+    ],
+    "correctAnswer": "นโยบายธรรมาภิบาลไอที (IT governance policy)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นความเสี่ยงที่คาดว่าจะสามารถลดลงได้ เมื่อสองบริษัทหรือมากกว่ามาทํางานร่วมกันภายใต้ข้อตกลงพันธมิตร (alliance agreement)",
+    "choices": [
+      "ความเสี่ยงจากการลงทุนทางธุรกิจ (Business investment risk)",
+      "ความเสี่ยงจากการรั่วไหลของข้อมูล (Information leakage risk)",
+      "ความเสี่ยงจากปัญหาสมองไหล (Brain drain risk)",
+      "ความเสี่ยงจากการฉ้อโกง (Fraud risk)"
+    ],
+    "correctAnswer": "ความเสี่ยงจากการลงทุนทางธุรกิจ (Business investment risk)"
+  },
+  {
+    "question": "ข้อใดต่อไปนี้เป็นคําอธิบายที่เหมาะสมเกี่ยวกับโรดแมปเทคโนโลยื (technology roadmap)",
+    "choices": [
+      "เป็นการจัดระเบียบการเปลี่ยนแปลงเทคโนโลยีในอดีต และไม่ได้แสดงถึงแนวโน้มในอนาคต",
+      "ถูกสร้างขึ้นมาสําหรับกลยุทธ์ทางเทคโนโลยีของบริษัทหรือภาคธุรกิจ และไม่ได้ถูกสร้างขึ้นโดยภาครัฐหรือฝ่ายบริหาร",
+      "ใช้แทนหลักไมล์ (milestone) ในการพัฒนาทางเทคโนโลยี และไม่เกี่ยวข้องกับการรีวิวที่มีพื้นฐานจากแนวโน้มการตลาด",
+      "ใช้แสดงถึงกลยุทธ์การพัฒนาทางเทคโนโลยีที่มีพื้นฐานจากกลยุทธ์องค์กร และต้องถูกทําความเข้าใจไม่เพียงแต่โดยวิศวกรเท่านั้น แต่รวมถึงพนักงานทั่วไปด้วย"
+    ],
+    "correctAnswer": "ใช้แสดงถึงกลยุทธ์การพัฒนาทางเทคโนโลยีที่มีพื้นฐานจากกลยุทธ์องค์กร และต้องถูกทําความเข้าใจไม่เพียงแต่โดยวิศวกรเท่านั้น แต่รวมถึงพนักงานทั่วไปด้วย"
+  },
+  {
+    "question": "เมื่อกระบวนการต่าง ๆ ตั้งแต่การพัฒนาผลิตภัณฑ์ไปจนถึงการขนส่งถูกแบ่งออกเป็น การพัฒนาการวางแผนการผลิต การผลิต และการขนส่ง ข้อใดต่อไปนี้เป็นกระบวนการสามารถนําระบบการผลิตแบบยืดหยุ่น (Flexible Manufacturing System: FMS) มาใช้เพื่อลดแรงงานและเพิ่มประสิทธิภาพได้",
+    "choices": [
+      "การพัฒนา (Development)",
+      "การวางแผนการผลิต (Production planning)",
+      "การผลิต (Production)",
+      "การขนส่ง (Shipment)"
+    ],
+    "correctAnswer": "การผลิต (Production)"
+  },
+    {
+    "question": "Which of the following is appropriate as information necessary for CRM?",
+    "choices": [
+      "Customer data and customer purchasing history",
+      "Blueprint data",
+      "Data of experts' knowledge",
+      "Day and time of sales, shop, product sold, and quantity sold"
+    ],
+    "correctAnswer": "Customer data and customer purchasing history"
+  },
+  {
+    "question": "Which of the following is an appropriate explanation of CAD, as used in the manufacturing industry?",
+    "choices": [
+      "It calculates the required quantity of materials for a product production plan and orders materials.",
+      "It manages information about the components, semi-finished products, quantities, etc. required for the manufacture of products.",
+      "It performs unified management of information such as product blueprints and component tables, from design to manufacturing.",
+      "It uses computers in product design to improve the productivity and reliability of design specifications."
+    ],
+    "correctAnswer": "It uses computers in product design to improve the productivity and reliability of design specifications."
+  },
+  {
+    "question": "A company that is considering entering a certain industry conducted a SWOT analysis. Among the analysis results, which of the following is the one that corresponds to an opportunity?",
+    "choices": [
+      "Success experience in an existing business",
+      "Deregulation in the industry",
+      "Product development capability of the company",
+      "The company’s retail store network that covers the whole country"
+    ],
+    "correctAnswer": "Deregulation in the industry"
+  },
+  {
+    "question": "When build-to-order production is compared to build-to-stock production, which of the following is an appropriate characteristic of build-to-order production?",
+    "choices": [
+      "Shipment is not possible immediately when an order is received, but there is no risk of an excessive number of products in the inventory.",
+      "It is required to increase the accuracy of order forecasts, and maintain the optimum inventory volume of products.",
+      "It brings the risk of the loss of order opportunities through insufficient product inventory.",
+      "Products are produced according to a production plan that is proposed on the basis of a product order forecast."
+    ],
+    "correctAnswer": "Shipment is not possible immediately when an order is received, but there is no risk of an excessive number of products in the inventory."
+  },
+  {
+    "question": "Which of the following is a form of e-commerce corresponding to an online bookstore or an online shopping mall that is constructed for individuals on the Internet?",
+    "choices": ["B to B", "B to C", "C to B", "C to C"],
+    "correctAnswer": "B to C"
+  },
+  {
+    "question": "Among the items of information concerning management status, which of the following is the list that contains all information which is mandated for disclosure in the annual securities reports of listed companies? A: Cash flow statement B: Market share C: Income statement D: Balance sheet",
+    "choices": ["A, B, C", "A, B, D", "A, C, D", "B, C, D"],
+    "correctAnswer": "A, C, D"
+  },
+  {
+    "question": "Which of the following is an appropriate purpose of Management Of Technology (MOT)?",
+    "choices": [
+      "To improve the productivity by using mathematics and natural science in business administration and production management",
+      "To grow a company by effectively connecting technical innovation with the business of one’s company",
+      "To improve the quality of a company by ensuring that the employees put in efforts systematically to improve the quality of products",
+      "To improve the business process efficiency by acquiring the necessary techniques and knowledge from senior employees through actual business operations at the workplace"
+    ],
+    "correctAnswer": "To grow a company by effectively connecting technical innovation with the business of one’s company"
+  },
+  {
+    "question": "Which of the following is the marketing technique that is composed of four components: product, price, place, and promotion?",
+    "choices": [
+      "Social marketing",
+      "Direct marketing",
+      "Marketing channel",
+      "Marketing mix"
+    ],
+    "correctAnswer": "Marketing mix"
+  },
+  {
+    "question": "Which of the following is the situation where an improvement can be expected by installing an MRP (Material Requirements Planning) system?",
+    "choices": [
+      "Drawing information is managed using electronic files and hard copies, so the design change history cannot be accurately known.",
+      "Information concerning materials necessary for manufacturing and their required quantities is insufficient or incorrect, so production is adversely affected.",
+      "There are too many design change requests, so production efficiency does not increase.",
+      "High-mix, low-volume production is adopted, so the cost of installing production equipment is increasing."
+    ],
+    "correctAnswer": "Information concerning materials necessary for manufacturing and their required quantities is insufficient or incorrect, so production is adversely affected."
+  },
+  {
+    "question": "Among the business management systems, which of the following has an objective of maximizing customer lifetime value? Here, customer lifetime value is the amount of profit expected to be brought into a company by a customer throughout his/her lifetime.",
+    "choices": ["CRM", "ERP", "SCM", "SFA"],
+    "correctAnswer": "CRM"
+  },
+  {
+    "question": "Which of the following is an appropriate case example of improvement in business operations using CAD?",
+    "choices": [
+      "Automating inventory control by installing an IC tag on each product and performing shipment monitoring",
+      "Performing control to ensure that the temperature suitable for production is maintained by installing temperature sensors on the production lines, and monitoring temperature",
+      "Converting the design information to a database, and then sharing and reusing the design drawings",
+      "Automating the production lines by using robots, and thus realizing an unmanned factory"
+    ],
+    "correctAnswer": "Converting the design information to a database, and then sharing and reusing the design drawings"
+  },
+  {
+    "question": "A company wishes to create digital files from paper documents and paper blueprints, and make these available company-wide. Which of the following is appropriate equipment to be used?",
+    "choices": ["GPS receiver", "Scanner", "Digitizer", "Plotter"],
+    "correctAnswer": "Scanner"
+  },
+  {
+    "question": "Which of the following is a technology that is defined by some international standards and used for contactless IC cards, such as tickets for public transport?",
+    "choices": ["IrDA", "RFID", "Bluetooth", "Wi-Fi"],
+    "correctAnswer": "RFID"
+  },
+  {
+    "question": "Which of the following is an appropriate case example that corresponds to traceability?",
+    "choices": [
+      "Taking advantage of the Internet and Web technology for the use of computers in education",
+      "Assigning all development activities to an external specialized company without placing the development department within one’s own company",
+      "Sharing knowledge and information that employees have across the entire organization, and utilizing it effectively to improve business performance",
+      "Being able to check the history from production up to sales on the basis of the labels pasted on meat and fish products"
+    ],
+    "correctAnswer": "Being able to check the history from production up to sales on the basis of the labels pasted on meat and fish products"
+  },
+  {
+    "question": "Which of the following describes EDI?",
+    "choices": [
+      "An international standard for e-mail services, based on the OSI basic reference model, which provides comprehensive services for the creation, transmission, and processing of messages",
+      "A communication service that provides added values such as storage of data transmitted over the network and conversion of data formats",
+      "The exchange of business transaction data between computers (including terminals) over a network in accordance with standard conventions",
+      "An ordering system that allows orders to be placed by transmitting order information from a data entry terminal to the head office or suppliers"
+    ],
+    "correctAnswer": "The exchange of business transaction data between computers (including terminals) over a network in accordance with standard conventions"
+  },
+  {
+    "question": "Which of the following is an appropriate explanation of POS terminals (or POS cash registers) in a supermarket and other such places?",
+    "choices": [
+      "They are terminals of the system used for collecting and managing information such as the product code and price at the time of a sales transaction (at the “Point of Sale”).",
+      "They are terminals of the “Purchase Order System”, and are mainly used to automate purchase orders for the replenishment of products.",
+      "They are terminals of the strategic product management system developed for monitoring the “Probability of Survival” of such products.",
+      "They are terminals of the inventory management system first manufactured in “Port of Spain”, and they hold an overwhelming market share."
+    ],
+    "correctAnswer": "They are terminals of the system used for collecting and managing information such as the product code and price at the time of a sales transaction (at the “Point of Sale”)."
+  },
+  {
+    "question": "Which of the following systems can be realized through the use of RFID?",
+    "choices": [
+      "Providing medical care by transmitting images and voice data of patients from a remote site via a network",
+      "Depositing and withdrawing money from a bank ATM by using an ATM card",
+      "Reading product information from the barcodes on products, and performing sales management and order processing at the time of sale in stores",
+      "Setting an electronic tag on a delivery parcel, and checking information related to the shipping history of the parcel"
+    ],
+    "correctAnswer": "Setting an electronic tag on a delivery parcel, and checking information related to the shipping history of the parcel"
+  },
+  {
+    "question": "Which of the following is an appropriate explanation of the point card system (or loyalty program) offered by retailers?",
+    "choices": [
+      "It is a system that enables the card applicant to do shopping within a credit limit through deferred payment of the amount.",
+      "It is a system that enables the payment of the shopping amount through a bank ATM card.",
+      "It is a system where credit corresponding to purchase amount is accumulated, and services are offered according to the accumulated credit.",
+      "It is a system where an amount is prepaid on the assumption of purchase of products, and the amount is deducted from the card each time a product is purchased."
+    ],
+    "correctAnswer": "It is a system where credit corresponding to purchase amount is accumulated, and services are offered according to the accumulated credit."
+  },
+  {
+    "question": "Among the senior management positions, which of the following is the highest-ranking person who exercises control over the information system?",
+    "choices": ["CEO", "CFO", "CIO", "COO"],
+    "correctAnswer": "CIO"
+  },
+  {
+    "question": "Which of the following is an appropriate combination of a management theme and a technique for achieving it? [Management themes] A: A company wishes to develop efficient business processes that span from procurement of components to sales. B: A company wishes to understand customers’ preferences and other information, and use this information in product planning and sales promotion. C: A company wishes to know the product name, quantity, and other sales-related information at the time of sale in order to restock appropriately and analyze strong selling products. [Techniques]  CRM, POS, SCM",
+    "choices": [
+      "A:SCM, B:CRM, C:POS",
+      "A:SCM, B:POS, C:CRM",
+      "A:POS, B:CRM, C:SCM",
+      "A:CRM, B:SCM, C:POS"
+    ],
+    "correctAnswer": "A:SCM, B:CRM, C:POS"
+  },
+  {
+    "question": "At company X, the possibility of a launch being delayed for a new product Y under development and its impact on future performance were analyzed and evaluated. Which of the following corresponds to this initiative?",
+    "choices": [
+      "ABC analysis",
+      "SWOT analysis",
+      "Environmental assessment",
+      "Risk assessment"
+    ],
+    "correctAnswer": "Risk assessment"
+  },
+  {
+    "question": "Which of the following is an explanation of the maturity stage in the product life cycle?",
+    "choices": [
+      "It is a stage where there is a sudden increase in sales. Competition intensifies as newcomers enter the market.",
+      "It is a stage where sales and profits suddenly drop. In this stage, withdrawal from the market should be considered.",
+      "It is a stage where demand growth slows down. Measures such as product quality improvement and style change are taken to maintain market share and secure profits.",
+      "It is a stage where the product is marketed to early adopters. Strategies to enhance brand recognition are planned and implemented."
+    ],
+    "correctAnswer": "It is a stage where demand growth slows down. Measures such as product quality improvement and style change are taken to maintain market share and secure profits."
+  },
+  {
+    "question": "Which of the following is the situation where an improvement can be expected by installing an Material Requirements Planning (MRP) system?",
+    "choices": [
+      "Design drawings are managed on both electronic files and hard copies, so design change history cannot be accurately known.",
+      "Information concerning materials and their quantities required for manufacturing is complicated, so it is easy to miscalculate order quantities, and production is being adversely affected.",
+      "There are many design changes, so production efficiency does not improve.",
+      "High-mix, low-volume production is adopted, so the cost of installing production equipment is increasing."
+    ],
+    "correctAnswer": "Information concerning materials and their quantities required for manufacturing is complicated, so it is easy to miscalculate order quantities, and production is being adversely affected."
+  },
+  {
+    "question": "Which of the following is a business objective that becomes possible to achieve with “the introduction of a POS system”?",
+    "choices": [
+      "Improvement in the work productivity of salespersons and organizational strength of the sales department",
+      "Reduction in inventory volume of component parts and partly finished goods",
+      "Optimization of the series of processes from procurement to manufacturing, shipment, and sales",
+      "Improvement in the product lineup at each store and streamlining of ordering and inventory control"
+    ],
+    "correctAnswer": "Improvement in the product lineup at each store and streamlining of ordering and inventory control"
+    },
+     {
+    "question": "Which of the following is term for a method that uses data such as accumulated sales data to find regularity such as a correlation between weather and products that sell well?",
+    "choices": [
+      "Data warehouse",
+      "Data processing",
+      "Data mining",
+      "Data modeling"
+    ],
+    "correctAnswer": "Data mining"
+  },
+  {
+    "question": "Which of the following is an item that must be considered when information systems strategy is drafted?",
+    "choices": [
+      "Methods for shortening the development period",
+      "Consistency with the business strategies",
+      "Methods for reducing costs",
+      "Introduction of the latest technologies"
+    ],
+    "correctAnswer": "Consistency with the business strategies"
+  },
+  {
+    "question": "An ERP package is a suite of fully integrated software applications that are used to perform administrative business processes, such as financial management, procurement, personnel, and payroll administration. Which of the following is the most appropriate description concerning such an ERP package?",
+    "choices": [
+      "An ERP package can be installed with relative ease because the business processes of a company do not need to be analyzed.",
+      "An ERP package should be maintained by individual user departments after its installation.",
+      "An ERP package should be installed after the business processes of a company are verified and standardized.",
+      "An ERP package is an integrated type of system software that is designed especially for the domestic business processes."
+    ],
+    "correctAnswer": "An ERP package should be installed after the business processes of a company are verified and standardized."
+  },
+  {
+    "question": "A middle-sized electrical manufacturer company A divides the products into groups in accordance with their potential and competitive strength in order to determine the priority of investing funds among their lineup. Which of the following is the most appropriate method of analysis for this purpose?",
+    "choices": [
+      "Cluster analysis regarding the prices and the customer bases of the company’s products",
+      "RFM analysis regarding the customers that purchase the company’s products",
+      "PPM analysis regarding the shares and the market growth rates of the company’s products",
+      "Principle component analysis regarding the cause of faults in the company’s products"
+    ],
+    "correctAnswer": "PPM analysis regarding the shares and the market growth rates of the company’s products"
+  },
+  {
+    "question": "Which of the following is appropriate as the evaluation axes in PPM that are used in optimizing the allocation of management resources across multiple businesses in a company?",
+    "choices": [
+      "Technology and products",
+      "Market growth rate and market share",
+      "Products and markets",
+      "Strengths and weaknesses, and opportunities and threats"
+    ],
+    "correctAnswer": "Market growth rate and market share"
+  },
+  {
+    "question": "Although a data warehouse is put into operation, it is seldom used. As a result of user interviews, it is concluded that the users’ skill level is lower than expected. Which of the following is an appropriate plan to promote the utilization of the data warehouse?",
+    "choices": [
+      "Sending a notification of usage promotion to users through their managers",
+      "Preparing standard templates for data extraction and analysis patterns",
+      "Providing data more promptly in real-time to improve data precision",
+      "Adding more information that users are likely to need"
+    ],
+    "correctAnswer": "Preparing standard templates for data extraction and analysis patterns"
+  },
+  {
+    "question": "An implementation plan for a company-wide information system that is consistent with the business strategy is to be created. Which of the following is the most appropriate person to take responsibility for this activity?",
+    "choices": [
+      "CIO",
+      "CTO",
+      "Head of the core business department",
+      "Person in charge of planning in the information systems department"
+    ],
+    "correctAnswer": "CIO"
+  },
+  {
+    "question": "Which of the following is the most appropriate term that is sometimes used to mean the creation of an epoch-making business model or a reform in technology?",
+    "choices": [
+      "Innovation",
+      "Migration",
+      "Real option",
+      "Revolution"
+    ],
+    "correctAnswer": "Innovation"
+  },
+  {
+    "question": "Which of the following is the part of a cash flow statement where the income from product sales is reported?",
+    "choices": [
+      "Sales activities",
+      "Financial activities",
+      "Investment activities",
+      "Administrative activities"
+    ],
+    "correctAnswer": "Sales activities"
+  },
+  {
+    "question": "Which of the following is a system that collects information that is required for sales management or inventory control by reading or keying in a product code or a buyer’s attribute at the time of a sale?",
+    "choices": ["ETC", "GPS", "POS", "SCM"],
+    "correctAnswer": "POS"
+  },
+  {
+    "question": "Which of the following is an appropriate explanation of CAD?",
+    "choices": [
+      "Education with the use of computers",
+      "Manufacturing activities with the use of computers",
+      "Design and drafting with the use of computers",
+      "Software design, development, and maintenance with the use of computers"
+    ],
+    "correctAnswer": "Design and drafting with the use of computers"
+  },
+  {
+    "question": "Which of the following is an appropriate description of the Balanced Scorecard (BSC)?",
+    "choices": [
+      "It analyzes what activities generate the value of products and services that are provided to customers.",
+      "It creates strategy and evaluates performance from four (4) viewpoints: financial, customer, internal business processes, and learning and growth.",
+      "It records entries in a ledger in order to ensure that the amounts of credits and debits are always in balance.",
+      "It scores and evaluates the creditworthiness of business partners through such means as financial indicators."
+    ],
+    "correctAnswer": "It creates strategy and evaluates performance from four (4) viewpoints: financial, customer, internal business processes, and learning and growth."
+  },
+  {
+    "question": "Which of the following is supported by a CAD system?",
+    "choices": [
+      "Process designing",
+      "Production planning",
+      "Product designing",
+      "Delivery planning"
+    ],
+    "correctAnswer": "Product designing"
+  },
+  {
+    "question": "Which of the following is the appropriate rule for “brainstorming” that is a method of resolving problems?",
+    "choices": [
+      "Participants should select and present only high-quality ideas among their own ideas.",
+      "Participants should criticize another participant’s ideas without hesitation.",
+      "Participants should avoid presenting better ideas based on another participant’s.",
+      "Participants should listen to free-wheeling opinions, including unique ideas."
+    ],
+    "correctAnswer": "Participants should listen to free-wheeling opinions, including unique ideas."
+  },
+  {
+    "question": "Airline Company A set out a strategic goal for each of the four (4) viewpoints of a Balanced Scorecard (BSC) to achieve the business strategy. Which of the following corresponds to II? Here, each of I through IV corresponds to one of a) through d). (Image: I. Improve profitability -> II. ... -> III. Reduce ground time -> IV. Improve ground crew skills)",
+    "choices": [
+      "Learning and growth viewpoint",
+      "Business process viewpoint",
+      "Customer viewpoint",
+      "Financial viewpoint"
+    ],
+    "correctAnswer": "Customer viewpoint"
+  },
+  {
+    "question": "In order to reduce the number of in-process or in-stock items between processes, production is carried out in each process according to the requests from the subsequent process and only the required number of the required items are supplied at the required time to the subsequent process. Which of the following is the system that performs this type of production?",
+    "choices": [
+      "Just-in-time production system",
+      "Cell production system",
+      "Build-to-stock production system",
+      "Lot production system"
+    ],
+    "correctAnswer": "Just-in-time production system"
+  },
+  {
+    "question": "Which of the following is the scope that the CFO, one of the positions involved in corporate management, bears responsibility for?",
+    "choices": ["Technology", "Finance", "Information", "Personnel"],
+    "correctAnswer": "Finance"
+  },
+  {
+    "question": "Which of the following is the method for implementing marketing strategies by combining multiple marketing elements?",
+    "choices": [
+      "Marketing concept",
+      "Marketing channel",
+      "Marketing mix",
+      "Merchandising"
+    ],
+    "correctAnswer": "Marketing mix"
+  },
+  {
+    "question": "Which of the following is an appropriate explanation of SWOT analysis?",
+    "choices": [
+      "It is a technique for deriving the future direction of corporate activities by analyzing opportunities and threats underlying in the external environment surrounding the company, and the strengths and weaknesses of the company.",
+      "It is a technique for designing a company’s own activities from the viewpoint of what kind of value the activities finally generate for customers and whether this satisfies the customers.",
+      "It is a technique for evaluating and analyzing the business performance of a company in a well-balanced manner, from the perspectives of financial, customer, internal business process, and learning and growth.",
+      "It is a technique for plotting a business on a matrix created by the two quantitative values of market growth rate and market share, and then optimizing the allocation of management resources."
+    ],
+    "correctAnswer": "It is a technique for deriving the future direction of corporate activities by analyzing opportunities and threats underlying in the external environment surrounding the company, and the strengths and weaknesses of the company."
+  },
+  {
+    "question": "Which of the following is an appropriate item that should be clearly stated in the information system strategy of a company?",
+    "choices": [
+      "IT governance policy",
+      "Structure for developing a mission-critical system",
+      "Evaluation criteria for vendor proposals",
+      "Analysis results of user requirements"
+    ],
+    "correctAnswer": "IT governance policy"
+  },
+  {
+    "question": "When two or more companies work together under an alliance agreement, which of the following is the most appropriate risk that is expected to be reduced?",
+    "choices": [
+      "Business investment risk",
+      "Information leakage risk",
+      "Brain drain risk",
+      "Fraud risk"
+    ],
+    "correctAnswer": "Business investment risk"
+  },
+  {
+    "question": "Which of the following is an appropriate description concerning a technology roadmap?",
+    "choices": [
+      "It organizes the transition of past technology and does not show future trends.",
+      "It is created for the technology strategy of a company or an industry and is not created by a government or an administration.",
+      "It represents milestones in technology development, and does not involve any review based on market trends.",
+      "It shows a technology development strategy based on an enterprise strategy, and is intended to be understood not only by engineers but also by other employees."
+    ],
+    "correctAnswer": "It shows a technology development strategy based on an enterprise strategy, and is intended to be understood not only by engineers but also by other employees."
+  },
+  {
+    "question": "When the processes from product development to shipment are divided into development, production planning, production, and shipment, which of the following is an appropriate process that can result in labor saving and improved efficiency by the introduction of the Flexible Manufacturing System (FMS)?",
+    "choices": [
+      "Development",
+      "Production planning",
+      "Production",
+      "Shipment"
+    ],
+    "correctAnswer": "Production"
+  }
+]
